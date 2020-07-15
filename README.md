@@ -1,5 +1,7 @@
 # wstg-cheatsheet
 
+https://github.com/OWASP/wstg/releases/download/v4.1/wstg-v4.1.pdf
+
 ## OWASP Testing Framework
 
 ### Information Gathering
